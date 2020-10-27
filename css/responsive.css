@@ -1,0 +1,105 @@
+@media(max-width:1424px){
+    ul.our-primari-menu li a {
+         padding: 0px 19px;
+     }
+     .main-header-menu .container-fluid,.container-fluid{ 
+        padding-left: 30px;
+        padding-right: 30px
+    }
+    .footer-section { 
+        padding: 25px 0 0 0;
+    }
+    .footer-bottom {
+        border-top: 1px solid #456744;
+        padding-top: 12px;
+        padding-bottom: 0px;
+    }
+}
+@media(max-width:1424px){
+    ul.our-primari-menu li a {
+        padding: 0px 15px;
+    }
+    .ft-social-icom ul li a span { 
+        left: 3px;
+        font-size: 15px;
+    }
+    b, strong {
+        font-weight: bolder;
+        font-size: 22px;
+    }
+    b, strong {
+        font-weight: bolder;
+        font-size: 13px;
+    }
+    .footer-center ul { 
+        font-size: 17px;
+        font-weight: normal;
+    }
+    .footer-center span {
+        padding-top: 20px; 
+        font-size: 28px; 
+    }
+    .footer-left > span {
+        padding-top: 16px; 
+        font-size: 28px; 
+    }
+    body, p, span { 
+        font-size: 21px;
+    }
+    .left-text a { 
+        font-size: 12px;
+    }
+    .footer-right p {
+        font-size: 15px; 
+    }
+}
+@media(max-width:1424px){
+    ul.our-primari-menu li a {
+        padding: 0px 9px;
+    }
+    .header-search {
+        width: 31px;
+        font-size: 8px;
+        line-height: -1px;
+        text-align: center;
+        border-right: 1px solid #ddd;
+        padding-right: 29px;
+        margin-right: 0px;
+    }
+    .header-call img {
+        max-width: 49px;
+        height: auto;
+    }
+    .header-call::before {
+        content: "";
+        height: 40px;
+        width: 40px; 
+        top: 4px;
+        left: 5px; 
+    }
+    .call-to-action span { 
+        margin-left: 3px;
+    }
+
+}
+    @media(max-width:1148px) and (min-width:986px){
+        .btn-primary { 
+            padding: -3px 19px; 
+        }
+        .header-call-info span {  
+            font-size: 18px;
+        }
+        .header-call-info a { 
+            font-size: 12px;
+        }
+}
+@media(max-width:1130px){
+    .btn-primary { 
+        padding: 4px 9px; 
+    }
+}
+@media(max-width:1072px){
+    .btn-primary { 
+        padding: 2px 5px; 
+    }
+}
